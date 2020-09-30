@@ -1,6 +1,8 @@
 # Simulating A Double Pendulum Model Using Python
 This repo is dedicated to simulate a Double Pendulum Model using Python and associated libraries.
 
+<img src="https://media.wired.com/photos/59b2de3b4239c66d68e8a480/master/w_2560%2Cc_limit/Rotablade-pendulum-TA.jpg" width="1200" height="500">
+
 ## What is Double Pendulum Model?
 - As per Wikipedia a double pendulum is a pendulum with another pendulum attached to its end
 - It is a simple physical system that exhibits rich dynamic behavior with a strong sensitivity to initial conditions.
